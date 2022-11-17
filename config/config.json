@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF3E520792296C2D57544b7E4873b585eFBf8Bc47",
+  "SCAN_LINK": "https://polygonscan.com/address/0xF3E520792296C2D57544b7E4873b585eFBf8Bc47",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MyColorsEyes",
+  "SYMBOL": "MCEYE",
+  "MAX_SUPPLY": 1512,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/my-colors-eyes",
+  "SHOW_BACKGROUND": true
+}
